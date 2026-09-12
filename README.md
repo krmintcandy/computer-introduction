@@ -253,9 +253,13 @@
 
 
 * 서버(Server): 네트워크를 통해 수많은 사용자의 동시 요청을 처리하며, 24시간 무중단 구동과 안정성이 최우선이다.
+<img width="432" height="709" alt="image" src="https://github.com/user-attachments/assets/c229e054-0b82-4d19-a96d-6bdbee860735" />
+
 
 
 * 슈퍼컴퓨터: 대규모 프로세서를 병렬로 연결해 기상 예측, AI 학습 등 초고성능 연산을 수행한다.
+<img width="700" height="466" alt="image" src="https://github.com/user-attachments/assets/39726222-5c8c-4676-9eac-26c9078a4e6b" />
+
 
 
 * 임베디드 및 IoT: 가전제품이나 자동차에 내장되어 정해진 단일 제어만 수행하며, 통신 결합 시 IoT로 발전한다.
