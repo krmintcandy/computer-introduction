@@ -221,6 +221,9 @@
 ## 2-4. 하드웨어와 소프트웨어
 
 * 하드웨어 4대 분류: 입력장치(키보드, 마우스), 처리장치(CPU, RAM), 출력장치(모니터, 스피커), 저장장치(SSD, HDD).
+<img width="547" height="365" alt="image" src="https://github.com/user-attachments/assets/539ce5d0-fe33-4e3f-a6af-d41a74b0f9ef" />
+<img width="1200" height="848" alt="image" src="https://github.com/user-attachments/assets/ddb245cd-b4a0-407c-ae99-e19090c4e634" />
+
 
 
 * 소프트웨어 분류:
