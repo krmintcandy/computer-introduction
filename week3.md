@@ -193,6 +193,10 @@
 * R=255, G=0, B=0이 나타내는 색: 초록과 파랑 성분 없이 빨강 빛만 최대로 켠 상태이므로 순수한 빨간색이다.
 
 
+<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/22065e1a-7ad7-49e1-962f-2c9d04be1353" />
+
+
+
 
 
 
@@ -211,6 +215,10 @@
 
 * 확인 질문 및 과제:
 * 증명사진과 학교 로고의 파일 형식 선택: 세밀한 인물 묘사가 필요한 증명사진은 래스터(JPEG/PNG)를 쓰고, 크기 확대·축소가 잦은 학교 로고나 아이콘은 벡터(SVG)를 쓴다.
+
+
+
+<img width="512" height="327" alt="image" src="https://github.com/user-attachments/assets/4e2935a6-592c-40f7-b00d-fb02d43f1338" />
 
 
 
