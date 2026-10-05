@@ -206,7 +206,7 @@
 * 절대 경로는 파일의 절대적인 위치(처음부터 끝까지 위치의 경로를 모두 순서대로 명시한 경로이다. 상대경로는 기준점이 되는 폴더 위치를 기준으로 해서 찾는 파일의 위치를 나타낸 것이다.
 * 현재 위치가 '주차'폴더라면 과제.txt의 상대 경로는 과제.txt이다.
 
-<img width="706" height="560" alt="image" src="https://github.com/user-attachments/assets/a7bae94f-74af-4819-b66e-9a2f3d80bb6a" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/a7bae94f-74af-4819-b66e-9a2f3d80bb6a" />
 
 
 ---
