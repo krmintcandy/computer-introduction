@@ -397,7 +397,7 @@
 * 확인 질문:
 * 복구 시험(Restoration Test) 4단계: 백업 파일 선택 -> 복원 실행 -> 파일 열기 -> 데이터 정상 작동 확인 절차를 주기적으로 점검해야 백업이 완성된다.
 
-  <img width="686" height="504" alt="image" src="https://github.com/user-attachments/assets/f941f248-77e1-4ee6-8414-059f3e7dba3c" />
+  <img height="400" alt="image" src="https://github.com/user-attachments/assets/f941f248-77e1-4ee6-8414-059f3e7dba3c" />
 
 
 
