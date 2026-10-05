@@ -57,6 +57,9 @@
 
 * 5단계 로그인 화면 표시: CPU가 RAM에 적재된 운영체제를 실행하여 구동을 완료하고 로그인 화면을 띄운다.
 
+  <img width="631" height="316" alt="image" src="https://github.com/user-attachments/assets/12914000-d314-44f8-8bbd-0d0445d9b69c" />
+
+
 
 
 
