@@ -260,6 +260,9 @@
 
 * 표 데이터 (CSV, XLSX): 데이터의 수치 계산, 행렬 정렬, 데이터베이스 연동이 필요한 경우 사용한다.
 
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/b345e61d-3c93-43f6-b741-08a0332001e6" />
+
+
 
 
 ---
