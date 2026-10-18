@@ -52,6 +52,9 @@
 * 확인 질문 및 과제:
 * pc -> 와이파이 -> 프로젝터
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/d7999af3-0af2-41b5-8caf-b66ff99b75c3" />
+
+
 ---
 
 #### 1-2. LAN, WAN과 인터넷
