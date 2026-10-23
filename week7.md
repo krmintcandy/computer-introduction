@@ -56,6 +56,8 @@
 * 철저한 안전성과 재해 복구: 전문 인력의 상시 관리, 다중 백업 시스템, 고수준의 물리적·네트워크 보안 체계를 제공받으므로 개인이 로컬 드라이브에 보관하는 것보다 데이터 유실 위험이 훨씬 적다.
 
 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/eeb8b70f-956c-4c2d-8900-0dc56f0dbd3f" />
+
 
 
 
@@ -81,6 +83,12 @@
 * 사용자(고객) 책임: 클라우드 내부의 보안(Security in the Cloud)으로, 데이터 분류 및 백업 주기 관리, 계정 암호 및 접근 권한(IAM) 제어, 방화벽 규칙 설정, 애플리케이션 보안 패치 등 비즈니스 직접 영역을 담당한다.
 * 제공자(사업자) 책임: 클라우드 자체의 보안(Security of the Cloud)으로, 데이터센터 건물의 물리적 보안, 전력 공급 및 냉각, 서버 하드웨어 교체, 글로벌 네트워크 망 운영, 가상화 엔진 무중단 유지보수를 담당한다.
 * 보안 실패의 원인: 클라우드 사업자가 최첨단 엔터프라이즈 보안을 적용하더라도 사용자가 취약한 비밀번호(1234 등)를 설정하거나 권한 관리를 소홀히 하면 시스템이 침해될 수 있으며, 이는 전적으로 사용자 책임에 속한다.
+
+
+
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d9d0c83a-ee9b-410f-b9e7-179af55e0cb0" />
+
 
 
 
@@ -371,6 +379,10 @@
 
 * 이러한 센서, 데이터, 판단, 자동화의 결합을 통해 우리 사회 전반에 걸쳐 편의성과 안전성을 높이고 에너지 절약 및 환경 보호라는 새로운 가치를 창출한다.
 
+
+<img width="800" height="427" alt="image" src="https://github.com/user-attachments/assets/55048c67-320f-4206-84b6-212fadce2c5e" />
+
+
 ---
 
 ### 2: 사물인터넷(IoT)의 활용과 데이터 흐름
@@ -496,6 +508,8 @@
 
 * 가용성(Availability): 권한이 있는 정당한 사용자는 원할 때 언제든지 중단 없이 해당 정보와 서비스에 접근해 사용할 수 있도록 보장하는 것이다.
 
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/cbea0048-feea-48c5-a443-c73e0d17145b" />
 
 
 
