@@ -14,7 +14,7 @@
 * 추론(Inference): 주어진 정보와 규칙을 바탕으로 논리적인 결론을 도출하는 과정이다.
 * 학습(Learning): 데이터나 경험을 활용해 모델의 내부 기준을 조정하고 업데이트하는 과정이다.
 * 의사결정(Decision Making): 목표와 제약 조건 아래에서 최적의 행동을 선택하는 과정이다 (단, 실제 AI가 항상 최선의 답을 보장하지는 않으며, 모든 AI가 네 기능을 모두 갖추는 것도 아니다).
-* <img width="656" height="460" alt="image" src="https://github.com/user-attachments/assets/1cf49c36-d3cc-441e-8877-036491d4afa8" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1cf49c36-d3cc-441e-8877-036491d4afa8" />
 
 
 
@@ -53,14 +53,14 @@
 * 규칙 기반 (IF 조건 THEN 행동):
 * 개발자가 명확한 조건(IF)과 수행 행동(THEN)을 규칙 엔진에 직접 명시하여 입력값이 조건을 만족하는지 검사하는 방식이다 (예: '무료' 단어 포함 시 스팸 분류).
 * 결과의 원인을 쉽게 추적할 수 있고 기준이 명확하며 변동이 적은 계산이나 정형 업무에 적합하지만, 예외가 늘어날수록 규칙이 길어지고 정상 메일까지 오차단할 한계가 있다.
-* <img width="528" height="410" alt="image" src="https://github.com/user-attachments/assets/b53a7573-92f1-4a9a-b746-d470ca224515" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b53a7573-92f1-4a9a-b746-d470ca224515" />
 
 
 
 * 학습 기반 (데이터에서 패턴 학습):
 * 개별 규칙을 모두 적는 대신 정답 라벨(스팸·정상)이 붙은 과거 데이터를 학습 알고리즘에 투입해 단어, 발신 정보, 링크 등 특징과 라벨 사이의 관계를 모델로 조정하는 방식이다.
 * 학습된 모델이 새로운 데이터의 가능성을 계산해 분류하지만, 데이터 선정과 정답 정의, 줄일 오류의 기준은 사람이 설계해야 하며 편향되거나 잘못된 라벨이 많으면 모델 성능이 저하된다.
-* <img width="582" height="418" alt="image" src="https://github.com/user-attachments/assets/907c1e48-2ef6-4073-9fb5-cf5588694b1b" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/907c1e48-2ef6-4073-9fb5-cf5588694b1b" />
 
 
 
@@ -104,7 +104,7 @@
 * 데이터는 관찰 값의 모음이며, 알고리즘은 데이터로부터 규칙을 찾는 절차와 방법이고, 모델은 학습 결과로 얻어진 예측 구조와 매개변수이다.
 * 일차함수 예측을 예로 들면, 과거 사례를 바탕으로 오차가 작아지도록 기울기와 절편을 찾아내는 절차가 알고리즘이고, 도출된 직선식($y = ax + b$)이 모델에 해당한다.
 * 같은 알고리즘을 사용하더라도 학습 데이터가 다르면 다른 모델이 만들어지므로, 알고리즘과 모델을 같은 의미로 혼용하지 않고 구분해야 한다.
-* <img width="636" height="418" alt="image" src="https://github.com/user-attachments/assets/5e99ebfc-9d63-46cb-899c-e42c30c521c2" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/5e99ebfc-9d63-46cb-899c-e42c30c521c2" />
 
 
 
@@ -135,7 +135,7 @@
 * 입력(특징) 데이터와 목표값인 정답(라벨)을 짝지어 함께 제공해 학습시키는 방식이다 (예: 스팸 메일 분류, 집의 특징을 통한 거래 가격 예측).
 * 모델의 예측값과 실제 라벨을 비교해 오차를 산출하고, 이 오차를 줄이는 방향으로 모델을 반복 업데이트한다.
 * 라벨은 사람이 직접 붙이거나 거래·측정 기록에서 얻는데, 잘못된 라벨이나 모호한 기준이 많으면 학습 품질이 떨어지므로 예측 대상을 명확히 정의하는 것이 중요하다.
-* <img width="606" height="448" alt="image" src="https://github.com/user-attachments/assets/49d41845-e390-4638-b31f-b4bef2c1ad49" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/49d41845-e390-4638-b31f-b4bef2c1ad49" />
 
 
 
@@ -143,7 +143,7 @@
 * 정답 라벨 없이 입력(특징) 데이터만 주어진 상태에서 데이터 내부의 숨은 구조나 패턴을 스스로 찾아내는 방식이다 (예: 구매 금액과 방문 빈도 기반의 고객 군집화).
 * 군집화(Clustering)로 유사한 데이터끼리 묶을 수는 있으나, 만들어진 집단의 의미(충성 고객, 알뜰 고객 등)와 활용 방안은 사람이 직접 관찰해 판단해야 한다.
 * 거리 측정 기준에 따라 묶이는 형태가 달라지므로, 라벨이 없더라도 집단의 안정성, 분리 정도, 실제 업무 유용성을 별도로 검증해야 한다.
-* <img width="644" height="456" alt="image" src="https://github.com/user-attachments/assets/a917a2c2-6eb0-4bdf-ac75-af24dce1260a" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a917a2c2-6eb0-4bdf-ac75-af24dce1260a" />
 
 
 
@@ -151,7 +151,7 @@
 * 에이전트(Agent)가 환경(Environment)의 현재 상태를 바탕으로 행동을 선택하고, 그 결과로 다음 상태와 보상(Reward)을 받아 장기적인 누적 보상을 최대화하도록 정책(Policy)을 개선하는 과정이다 (예: 게임 전략 학습).
 * 당장의 단기 보상이 전체 목표 달성과 다를 수 있으므로, 새로운 행동을 시험하는 탐색(Exploration)과 기존에 검증된 행동을 쓰는 활용(Exploitation) 사이의 균형이 필요하다.
 * 무엇을 보상으로 설정하느냐에 따라 원하지 않는 방향으로 학습될 수 있으므로 보상 설계가 핵심이다.
-* <img width="592" height="436" alt="image" src="https://github.com/user-attachments/assets/d51ecaa3-ec60-4f08-aae1-caf1289c8b5b" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d51ecaa3-ec60-4f08-aae1-caf1289c8b5b" />
 
 
 
@@ -256,14 +256,14 @@
 * 여러 특징으로 구성된 특징 공간(Feature Space) 위의 데이터를 바탕으로, 새로운 사례가 각 범주에 속할 확률(합이 1이 되는 확률 분포)을 계산해 범주를 예측한다.
 * 확률을 출력하는 모델에서는 분류 결과뿐 아니라 차단이나 판정의 기준이 되는 임계값(Threshold) 설정이 필요하다.
 * 모델의 예측 확률이 현실의 실제 발생 빈도와 항상 일치하는 것은 아니므로 확률의 신뢰성을 별도로 점검해야 하며, 높은 확률이 출력되었다고 해서 오류 가능성이 사라지는 것은 아니다.
-* <img width="632" height="470" alt="image" src="https://github.com/user-attachments/assets/c444f435-a2f5-42cd-98e2-142d5cdddbe8" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/c444f435-a2f5-42cd-98e2-142d5cdddbe8" />
 
 
 
 * 회귀 (연속 수치와 오차):
 * 면적이나 위치 같은 입력 특징을 통해 집값 같은 연속적인 숫자를 예측하며, 단순 정답 여부가 아니라 실제값과 예측값의 차이인 잔차(Residual = 실제값 - 예측값)의 크기가 핵심이다.
 * 양수와 음수 잔차를 그대로 평균 내면 서로 상쇄되어 오차가 없는 것처럼 왜곡될 수 있으므로, 오차 크기를 평가할 때는 절댓값이나 제곱을 활용한다.
-* <img width="626" height="468" alt="image" src="https://github.com/user-attachments/assets/f1a7ace3-b27d-4c15-8edc-26c9a0be8b4b" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/f1a7ace3-b27d-4c15-8edc-26c9a0be8b4b" />
 
 
 
@@ -271,7 +271,7 @@
 * 특징 공간에서 서로 다른 범주 영역을 구분해 주는 경계선으로, 직선 형태의 선형 경계(예: 로지스틱 회귀)와 곡선 형태의 비선형 경계(예: 결정 트리, 커널 SVM)로 나뉜다.
 * 경계가 너무 단순하면 데이터의 중요한 패턴을 놓치고, 지나치게 복잡하면 학습 데이터의 우연한 노이즈까지 따라가므로 경계가 복잡할수록 언제나 정확한 것은 아니다.
 * 로지스틱 회귀처럼 이름에 회귀가 들어가더라도 실제로는 범주를 구분하는 분류 알고리즘이므로 이름만으로 문제 유형을 단정해서는 안 된다.
-* <img width="600" height="396" alt="image" src="https://github.com/user-attachments/assets/273e26f6-737e-4f12-a6a8-f1d44972ac27" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/273e26f6-737e-4f12-a6a8-f1d44972ac27" />
 
 
 
@@ -360,7 +360,7 @@
 * 문제 유형별 대표 손실 함수:
 * 평균 제곱 오차(MSE, 회귀 손실): 실제값과 예측값의 차이를 제곱해 평균을 낸 값으로, 작게 틀렸을 때보다 크게 틀렸을 때 훨씬 큰 벌점을 부과한다.
 * 이진 교차 엔트로피(BCE, 분류 손실): 정답 범주에 얼마나 높은 예측 확률을 주었는지를 계산하며, 정답에 높은 확률을 줄수록 벌점이 작고 틀린 범주를 강하게 확신할수록 벌점이 급격히 커진다.
-* <img width="518" height="350" alt="image" src="https://github.com/user-attachments/assets/a5abdd67-1815-45af-8bfd-66e1de3ed74a" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a5abdd67-1815-45af-8bfd-66e1de3ed74a" />
 
 
 
@@ -467,14 +467,14 @@
 * 사진 같은 입력 데이터를 픽셀 단위로 펼쳐 숫자 배열인 1차원 벡터($x$)로 변환한다.
 * 각 입력값에서 학습 자료의 평균($\mu$)을 빼고 표준편차($\sigma$)로 나누는 정규화($x_{norm} = \frac{x - \mu}{\sigma}$)를 수행한다.
 * 이미지마다 밝기 범위나 크기가 다를 때 각 특징의 수치 스케일을 일정하게 맞추어 학습을 안정화하는 역할을 한다.
-* <img width="602" height="428" alt="image" src="https://github.com/user-attachments/assets/3c79a628-2063-4dfa-981a-66320c06502d" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/3c79a628-2063-4dfa-981a-66320c06502d" />
 
 
 
 * 가중합 연산 (입력 · 가중치 · 편향):
 * 정규화된 입력 벡터($x$)에 각 연결의 중요도를 나타내는 가중치 행렬($W$)을 곱하고 편향 벡터($b$)를 더해 가중합($z = Wx + b$)을 계산한다.
 * 행렬과 벡터 연산을 활용하면 한 층에 속한 여러 뉴런의 입력 총합을 한 번에 간결하게 표현하고 처리할 수 있다.
-* <img width="642" height="432" alt="image" src="https://github.com/user-attachments/assets/207c21a4-11a4-47ec-85ca-4ed0ee79d395" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/207c21a4-11a4-47ec-85ca-4ed0ee79d395" />
 
 
 
@@ -510,14 +510,14 @@
 * 순전파 (입력 → 예측):
 * 입력 데이터가 은닉층을 지나며 각 뉴런의 가중합과 활성화 함수 계산을 거쳐 범주별 점수나 예측 출력($\hat{y}$)을 생성하는 단계이다.
 * 정답과 비교하여 오차를 산출하기 위해 학습 과정에서도 가장 먼저 순전파를 실행해 예측값을 얻는다.
-* <img width="604" height="436" alt="image" src="https://github.com/user-attachments/assets/ae564d4e-9fa4-46d3-9e9a-078b4493b25a" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/ae564d4e-9fa4-46d3-9e9a-078b4493b25a" />
 
 
 
 * 손실 계산 (예측과 정답 비교):
 * 지도학습에서 모델의 예측 확률과 미리 부여된 정답 라벨(예: 해당 범주만 1로 표시하는 원-핫 표현) 사이의 차이를 손실 함수로 수치화한다.
 * 정답 범주에 가장 높은 확률을 주었더라도 1과의 차이만큼 손실이 존재하며, 손실이 클수록 정답과 멀다는 의미이므로 이를 최소화하는 것이 학습의 목표이다.
-* <img width="622" height="440" alt="image" src="https://github.com/user-attachments/assets/514c236d-adf4-4eae-b1d8-f1bdddf7c27c" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/514c236d-adf4-4eae-b1d8-f1bdddf7c27c" />
 
 
 
